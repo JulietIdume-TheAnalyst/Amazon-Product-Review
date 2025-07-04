@@ -58,7 +58,7 @@ EDA invloves the exploring of the data to show certain facts about the Data. The
 <details>
 <summary><h2>📊Data Analysis</h2></summary>
     
-Avaivable via image provided
+Available via image provided
 
 <details>
 <summary><h2>📊Conclusion</h2></summary>
