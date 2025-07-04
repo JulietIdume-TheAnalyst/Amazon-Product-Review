@@ -58,8 +58,10 @@ EDA invloves the exploring of the data to show certain facts about the Data. The
 <details>
 <summary><h2>📊Data Analysis</h2></summary>
     
-Avaialble via image provided
+Avaivable via image provided
+
 <details>
 <summary><h2>📊Conclusion</h2></summary>
 This Excel-based analysis highlights how businesses can extract actionable insights from product review data. By understanding customer feedback patterns, sellers can improve product quality, enhance listings, and tailor their customer service strategies effectively.
 
+</details>
