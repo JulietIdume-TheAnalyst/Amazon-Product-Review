@@ -58,7 +58,7 @@ EDA invloves the exploring of the data to show certain facts about the Data. The
 <details>
 <summary><h2>📊Data Analysis</h2></summary>
     
-Available via image provided
+[View dashboard here](https://github.com/JulietIdume-TheAnalyst/Amazon-Product-Review/blob/main/Amazon%20Case%20Study.xlsx)
 
 <details>
 <summary><h2>📊Conclusion</h2></summary>
