@@ -2,7 +2,8 @@
 Online product reviews are essential for understanding customer satisfaction and behavior. 
 This analysis focuses on customer reviews for Amazon products, helping businesses identify strengths, weaknesses, and opportunities to improve product offerings and customer experience.
 
-! [alt text](amazon.png) 
+<img width="595" height="335" alt="image" src="https://github.com/user-attachments/assets/6d41e3db-be5d-4f77-8dc5-b198e09b90b4" />
+
 
 ## Project Topics: Amazon Product Review Capstone Project
 
