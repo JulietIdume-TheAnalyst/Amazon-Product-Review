@@ -7,7 +7,7 @@ This analysis focuses on customer reviews for Amazon products, helping businesse
 <summary><h2>📚Project Overview</h2></summary>
     
 This project presents an Amazon Product Review Analysis using Excel to explore customer feedback, identify patterns, and support data-driven business decisions. It showcases how simple tools like Excel can generate valuable insights from raw e-commerce review data.
-
+![Screenshot of Project](./amazon.png)
 </details>
 
 <details>
