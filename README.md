@@ -1,6 +1,9 @@
 # Amazon Product Review Capstone Project
 Online product reviews are essential for understanding customer satisfaction and behavior. 
 This analysis focuses on customer reviews for Amazon products, helping businesses identify strengths, weaknesses, and opportunities to improve product offerings and customer experience.
+
+! [alt text](amazon.png) 
+
 ## Project Topics: Amazon Product Review Capstone Project
 
 <details>
