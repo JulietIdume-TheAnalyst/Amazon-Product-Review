@@ -3,7 +3,7 @@ This project analyzes customer reviews and product data from Amazon to uncover i
 
 <img width="595" height="335" alt="image" src="https://github.com/user-attachments/assets/6d41e3db-be5d-4f77-8dc5-b198e09b90b4" />
 
-[View dashboard here](https://app.powerbi.com/links/qzJ_gdVFtY?ctid=0eadf3f7-4ca9-49f6-8f8c-e7b847d32556&pbi_source=linkShare)
+[View dashboard here on Power BI](https://app.powerbi.com/links/qzJ_gdVFtY?ctid=0eadf3f7-4ca9-49f6-8f8c-e7b847d32556&pbi_source=linkShare)
 
 ## Project Overview:
 
